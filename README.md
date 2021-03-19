@@ -1,2 +1,2 @@
 # GeolocationExample
-Yahoo地図apiを使うサンプル
+OpenStreetMap APIとYahoo地図apiを使うサンプル
